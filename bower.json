@@ -1,0 +1,26 @@
+{
+  "name": "sclwebtemplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/framerate/",
+  "authors": [
+    "Justin Reynard <framerate@gmail.com>"
+  ],
+  "description": "template for new web apps",
+  "componentsDirectory": "lib/client/vendor",
+  "directory": "lib/client/vendor",
+  "license": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "signet": "~0.4.5",
+    "font-awesome": "~4.0.3",
+    "bootstrap": "~3.1.1"
+  }
+}

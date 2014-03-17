@@ -1,0 +1,26 @@
+{
+  "name": "secretcowlevel",
+  "description": "template",
+  "author": "justin@secretcowlevel.com",
+  "private": "true",
+  "dependencies": {
+    "newrelic": "~1.3.2",
+    "express": "~3.4.8",
+    "ejs": "~0.8.5",
+    "mongoose": "~3.8.8",
+    "underscore": "~1.6.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+      "grunt": "~0.4.2",
+      "grunt-contrib-uglify": "~0.4.0",
+      "grunt-contrib-jshint": "~0.8.0",
+      "grunt-notify": "~0.2.17",
+      "grunt-bower": "~0.9.0",
+      "grunt-jsbeautifier": "~0.2.6",
+      "load-grunt-tasks": "~0.4.0",
+      "grunt-express-server": "~0.4.13",
+      "grunt-contrib-watch": "~0.5.3",
+      "grunt-contrib-cssmin": "~0.9.0"
+    }
+}
